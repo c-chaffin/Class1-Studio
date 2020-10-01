@@ -10,6 +10,7 @@ namespace Class1_Studio
             //double area;
             //double circumference;
             //double diameter;
+            double test;
             double milesPerGallon;
             double gallons;
             string input;
